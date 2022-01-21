@@ -153,10 +153,10 @@ void MainMenuState::initButtons()
 void MainMenuState::initMusic()
 {
 	// Initialize music
-	if (!this->backgroundMusic_.openFromFile(root_filepath_ + "/src/Audio/BackgroundMusic/aura.wav"))
+	/*if (!this->backgroundMusic_.openFromFile(root_filepath_ + "/src/Audio/BackgroundMusic/aura.wav"))
 	{
 		throw "ERROR::MAINMENUSTATE::UNABLE_TO_LOAD_BACKGROUND_MUSIC_FILE";
-	}
+	}*/
 	if (!this->buffer.loadFromFile(root_filepath_ + "/src/Audio/SoundEffects/Click.wav"))
     {
         throw "ERROR::TOWER::UNABLE_TO_LOAD_SOUND_EFFECT_FILE";
