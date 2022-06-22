@@ -1,3 +1,5 @@
+THIS IS A IMPORT FROM GIT LAB AND THUS DOES NOT SHOW THE VERSION HISTORY OR THE COMMITS OF THE TEAM
+
 # Project Name (replace here!)
 
 This is the template for the projects. Please copy the project description here. 
