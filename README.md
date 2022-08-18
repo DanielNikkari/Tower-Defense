@@ -6,10 +6,10 @@ This is the template for the projects. Please copy the project description here.
 You can use Markdown language to render it as formatted **HTML** file.
 
 # Group
-- Daniel Nikkari 653088
-- Sani Letchu 715036
-- Oskari Kiili 728890
-- Vili Nieminen 593465
+- Daniel Nikkari
+- Sani Letchu
+- Oskari Kiili
+- Vili Nieminen
 
 # Repository organization
 Your project implementation should follow the skelaton organization in this repository.
